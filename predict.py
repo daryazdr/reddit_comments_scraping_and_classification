@@ -16,7 +16,7 @@ from scraper import scrape_reddit_comments
 
 # chemin vers le checkpoint sauvegardé par train_transformer.py,
 # numéro est choisi par Hugging Face automatiquement
-model_path = "results/checkpoint-2159"
+model_path = "results/checkpoint-500"
 comments_per_post = 3
 post_limit = 5
 
